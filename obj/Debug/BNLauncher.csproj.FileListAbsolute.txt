@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\опыты\BNLauncher\bin\Debug\BNLauncher.exe.config
+C:\Users\Alex\Desktop\опыты\BNLauncher\bin\Debug\BNLauncher.exe
+C:\Users\Alex\Desktop\опыты\BNLauncher\bin\Debug\BNLauncher.pdb
+C:\Users\Alex\Desktop\опыты\BNLauncher\obj\Debug\BNLauncher.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\опыты\BNLauncher\obj\Debug\BNLauncher.Form1.resources
+C:\Users\Alex\Desktop\опыты\BNLauncher\obj\Debug\BNLauncher.Properties.Resources.resources
+C:\Users\Alex\Desktop\опыты\BNLauncher\obj\Debug\BNLauncher.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\опыты\BNLauncher\obj\Debug\BNLauncher.exe
+C:\Users\Alex\Desktop\опыты\BNLauncher\obj\Debug\BNLauncher.pdb
